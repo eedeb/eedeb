@@ -1,44 +1,49 @@
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.tags {
-					display: flex;
-					flex-wrap: wrap;
-					height: 100%;
-					width: 100%;
-				}
-				.tag {
-					background-color: #e3ffff;
-					border-radius: 0.25em;
-					color: #0ca4a5;
-					border: 1px solid #0ca4a5;
-					display: inline-block;
-					font-size: 0.75em;
-					line-height: 2em;
-					margin: 0.125em;
-					padding: 0 0.5em;
-					text-decoration: none;
-					font-family: sans-serif;
-				}
-			</style>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chatbot</title>
+</head>
+<body>
+  <form id="chat-form">
+    <input type="text" id="chat-input" />
+    <button type="submit">Send</button>
+  </form>
+  <div id="chat-output"></div>
+  <svg width="100" height="100">
+    <!-- SVG elements go here -->
+  </svg>
+  <script>
+    document.querySelector('#chat-form').addEventListener('submit', function(event) {
+      event.preventDefault(); // prevent the form from refreshing the page
+      var input = document.querySelector('#chat-input').value; // get the value of the input field
+      var response = searchForKeywords(input); // search for keywords in the input
+      document.querySelector('#chat-output').innerHTML = response; // display the response
+    });
 
-			<div class="tags">
-				<div class="tag">Angular</div>
-				<div class="tag">Vue(X)</div>
-				<div class="tag">JavaScript</div>
-				<div class="tag">TypeScript</div>
-			</div>
-			<div class="tags">
-				<div class="tag">(S)CSS</div>
-				<div class="tag">Building UIs</div>
-				<div class="tag">Web Components</div>
-			</div>
-			<div class="tags">
-				<div class="tag">Ionic</div>
-				<div class="tag">Electron</div>
-				<div class="tag">.NET</div>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+    function searchForKeywords(input) {
+        input = input.toLowerCase()
+      if (input.includes('hello')) {
+        return 'Hello. I am Mrpi314';
+      } else if (input.includes('bye')) {
+        return 'adios amigo';
+      } else if (input.includes('uc37')) {
+        return 'UC37 is a chatbot that can be used to help out';
+      } else if (input.includes('math')) {
+        return 'UC37math is a set of simple flashcards that runs on pygame';
+      } else if (input.includes('mrpi314')) {
+        return "That's me!";
+      } else if (input.includes('you')) {
+        return "I am mrpi314";
+      } else if (input.includes('mario')) {
+        return "Mario Pipe is a simple Python program for a raspberry pi mean to imitate Mark Rober's hacked NES";
+      } else if (input.includes('cad')) {
+        return "Raspberry-pi-case-CAD is the CAD files I used to 3D print my Raspberry pi case";
+      } else if (input.includes('ucprogramming')) {
+        return "These are the files for a website that is still a work in progress";
+      } else {
+        return 'I did not understand your message';
+      }
+    }
+  </script>
+</body>
+</html>
