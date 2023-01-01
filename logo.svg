@@ -1,26 +1,17 @@
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<!DOCTYPE html>
-    <html>
-    <head>
-      <style>
-        #spinning-image {
-          animation: spin 4s linear infinite;
-        }
+<svg width="100" height="100">
+  <style>
+    #spinning-image {
+      animation: spin 4s linear infinite;
+    }
     
-        @keyframes spin {
-          from {
-            transform: rotate(0deg);
-          }
-          to {
-            transform: rotate(360deg);
-          }
-        }
-      </style>
-    </head>
-    <body>
-      <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" id="spinning-image">
-    </body>
-    </html>
-	</foreignObject>
+    @keyframes spin {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+  </style>
+  <image xlink:href="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" id="spinning-image" width="100" height="100"/>
 </svg>
