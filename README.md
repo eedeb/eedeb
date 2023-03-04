@@ -1,6 +1,6 @@
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314planet.gif" alt="Planet" width=400> 
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314glitch.gif" alt="Glitch" width=400>
+  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech/main/mrpi314planet.gif" alt="Planet" width=400> 
+  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech/main/mrpi314glitch.gif" alt="Glitch" width=400>
 </div>
 <h1>Mrpi314 Tech</h1>
 <div style="display: flex;">
