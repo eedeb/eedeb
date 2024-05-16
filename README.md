@@ -17,3 +17,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpi314tech" alt="Mrpi314tech's language stats">
 </div>
 <h2>https://mrpi314.com</h2>
+<h2>http://chat.mrpi314.com</h2>
+<h2>http://123scoring.com</h2>
