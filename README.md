@@ -8,16 +8,16 @@ Hello, I'm Mrpi314tech. I like creating AI tools to make the AI assitant experie
 
 ### Projects
 
-- **[Classy](https://github.com/Mrpi314tech/Classy)**: An AI tool for categorizing natural language input for further processing with various models and tools. For instance, it can classify data into GPT, image generation, Google lookup, and conversation classes.
+- **[Classy](https://github.com/Mrpi314tech/Classy)**: Classy is a python module that utilizes AI to classify natural language into categories for processing with other models and tools, such as OpenAI's ChatGPT and Dall-E, Search_Scrape, and CustomChat.
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mrpi314tech/Classy)
 
   
-- **[Search-Scrape](https://github.com/Mrpi314tech/Search_Scrape)**: A browser scraping tool that extracts important data and formats it into sentences.
+- **[Search-Scrape](https://github.com/Mrpi314tech/Search_Scrape)**: Search_Scrape uses bs4 to scrape browsers for answers to user's questions. Search_Scrape then attempts to put the data into a sentance.
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mrpi314tech/Search_Scrape)
   
-- **[CustomChat](https://github.com/Mrpi314tech/CustomChat)**: A rule-based chatbot designed to hold conversations until the user requests more advanced tools or models.
+- **[CustomChat](https://github.com/Mrpi314tech/CustomChat)**: CustomChat is a rule based Chatbot that holds the users attention until the user asks to be redirected to a different tool or model
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mrpi314tech/CustomChat)
 
