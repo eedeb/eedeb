@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mrpi314tech?style=social)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Mrpi314tech/Mrpi314tech)
 
-Hello, I'm Mrpi314tech. I like creating AI tools to mske the AI assitant experience better and easier to use. Here are some of my models and tools:
+Hello, I'm Mrpi314tech. I like creating AI tools to make the AI assitant experience better and easier to use. Here are some of my models and tools:
 
 ### Projects
 
@@ -27,7 +27,7 @@ To see these tools in action along with OpenAI integrations, visit [chat.mrpi314
 
 ### About Me
 
-Hello, I’m Mrpi314. I specialize in Linux development and have expertise in Python, Bash, HTML, NGINX, and CSS. My portfolio includes developing AI assistants and designing sophisticated web-based applications. I’m dedicated to pushing technological boundaries and delivering impactful solutions.
+I like to code in Python, Bash, HTML, CSS, and JavaScript. I like building tools to enhance AI assistants, and I also make web applications using Flask and NGINX.
 
 ---
 
