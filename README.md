@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mrpi314tech?style=social)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Mrpi314tech/Mrpi314tech)
 
-Hello, I'm Mrpi314tech. I like creating AI tools to make the AI assitant experience better and easier to use. Here are some of my models and tools:
+I like creating AI tools to make the AI assitant experience better and easier to use. Here are some of my models and tools:
 
 ### Projects
 
