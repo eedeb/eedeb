@@ -21,7 +21,7 @@ Hello, I'm Mrpi314tech. I like creating AI tools to make the AI assitant experie
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mrpi314tech/CustomChat)
 
-To see the tools working together conbined with OpenAI models, see [chat.mrpi314.com](http://chat.mrpi314.com).
+To see the tools working together combined with OpenAI models, see [chat.mrpi314.com](http://chat.mrpi314.com).
 
 ---
 
