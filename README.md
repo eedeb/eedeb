@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/Mrpi314tech?style=social)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Mrpi314tech/Mrpi314tech)
 
-I am passionate about creating tools that enhance AI capabilities. Here are a few of my key projects:
+Hello, I'm Mrpi314tech. I like creating AI tools to mske the AI assitant experience better and easier to use. Here are some of my models and tools:
 
 ### Projects
 
