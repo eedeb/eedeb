@@ -23,6 +23,9 @@ I like creating AI tools to make the AI assitant experience better and easier to
 
 To see the tools working together combined with OpenAI models, see [chat.mrpi314.com](http://chat.mrpi314.com).
 
+- **[Jimbot](https://github.com/Mrpi314tech/Jimbot)**: Jimbot is a linux application that utilizes these tools and is controlled with your voice. Jimbot can also open and close applications, along wiht other system managment tools.
+
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Mrpi314tech/Jimbot)
 ---
 
 ### About Me
