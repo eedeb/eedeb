@@ -33,18 +33,8 @@ To see the tools working together combined with OpenAI models, see [chat.mrpi314
 I like to code in Python, Bash, HTML, CSS, and JavaScript. I like building tools to enhance AI assistants, and I also make web applications using Flask and NGINX.
 
 ---
-
-<h1 style="text-align: center;">Mrpi314 Tech</h1>
-<div style="display: flex; justify-content: center;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;"> 
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;"> 
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/Mrpi314tech/Mrpi314tech.github.io/main/mrpi314.png" alt="Mrpi314 logo" width="100" style="margin: 0 10px;">
-</div> 
+Join my daily.dev squad: [Click here](https://dly.to/2qZfyMmNFQh)
+---
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpi314tech" alt="Mrpi314tech's language stats">
