@@ -44,8 +44,8 @@ Join my daily.dev squad: [Click here](https://dly.to/2qZfyMmNFQh)
 
 ### Find Me Online
 
-- [mrpi314.com](https://mrpi314.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmrpi314.com)
-- [chat.mrpi314.com](http://chat.mrpi314.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fchat.mrpi314.com)
+- [chat314.com](https://chat314.com.com) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fmrpi314.com)
+- [app.chat314.com](http://app.chat314.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2Fchat.mrpi314.com)
 - [123scoring.com](http://123scoring.com) ![Website](https://img.shields.io/website?url=http%3A%2F%2F123scoring.com)
 
 
