@@ -1,5 +1,5 @@
 # Website migration
-Starting October 1st, the new domain name for my websites will be chat314.com instead of mrpi314.com. Currently, both domains display my website. chat.mrpi314.com moved to app.chat314.com.
+Starting October 1st, the new domain name for my websites will be chat314.com instead of mrpi314.com.
 
 ---
 # Hello, I'm Mrpi314tech
@@ -35,10 +35,6 @@ To see the tools working together combined with OpenAI models, see [chat.mrpi314
 ### About Me
 
 I like to code in Python, Bash, HTML, CSS, and JavaScript. I like building tools to enhance AI assistants, and I also make web applications using Flask and NGINX.
-
----
-Join my daily.dev squad: [Click here](https://dly.to/2qZfyMmNFQh)
----
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpi314tech" alt="Mrpi314tech's language stats">
