@@ -1,7 +1,3 @@
-# Website migration
-Starting October 1st, the new domain name for my websites will be chat314.com instead of mrpi314.com.
-
----
 # Hello, I'm Mrpi314tech
 
 ![GitHub followers](https://img.shields.io/github/followers/Mrpi314tech?style=social)
