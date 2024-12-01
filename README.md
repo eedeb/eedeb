@@ -21,7 +21,7 @@ I like creating AI tools to make the AI assitant experience better and easier to
 
   ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/eedeb/CustomChat)
 
-To see the tools working together combined with OpenAI models, see [chat.mrpi314.com](http://chat.mrpi314.com).
+To see the tools working together combined with OpenAI models, see [app.chat314.com](http://app.chat314.com).
 
 - **[Jimbot](https://github.com/eedeb/Jimbot)**: Jimbot is a linux application that utilizes these tools and is controlled with your voice. Jimbot can also open and close applications, along with other system managment tools.
 
