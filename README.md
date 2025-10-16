@@ -59,4 +59,5 @@ I'm passionate about building practical AI tools and interfaces that are fast, s
 |------------------------|-------------------------------------------|--------|
 | **Assistant Homepage** | [chat314.com](https://chat314.com)        | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fchat314.com) |
 | **App Interface**      | [app.chat314.com](https://app.chat314.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fapp.chat314.com) |
+| **Unblocked Retrobowl**      | [powerschool.chat314.com](https://powerschool.chat314.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fpowerschool.chat314.com) |
 | **Scoring Game**       | [123scoring.com](https://123scoring.com)   | ![Website](https://img.shields.io/website?url=https%3A%2F%2F123scoring.com) |
