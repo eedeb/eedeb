@@ -15,7 +15,7 @@ I'm **Elliot DeBruin** — a self-taught developer specializing in website desig
 | Service | What it looks like | Stack |
 |---|---|---|
 | 🌐 **Website Design** | Clean, fast, responsive sites — landing pages to full platforms, design and development end-to-end. | HTML/CSS, JavaScript, Flask, NGINX |
-| 🤖 **Discord Bots** | Custom bots for moderation, automation, games, and AI integrations. Built to spec. | Python, discord.py, SQLite, LLM APIs |
+| 🤖 **AI Agents** | Custom agents that classify intent locally, route to the cheapest capable model, and run real tools — web search, bash, files, smart home. | Python, Flask, LLM APIs, Classy-AI |
 | 🧠 **Neural Networks** | Lightweight, purpose-built networks and AI pipelines for smart, fast decision-making. | Python, custom models, Classy-AI |
 
 ---
@@ -29,7 +29,7 @@ A token-efficient AI agent with a web UI. It classifies intent locally with Clas
 - Local intent routing before hitting a paid API
 - Tool execution: search, bash, files, smart home
 
-`AI Agent` `Python` `Flask` `Groq` `Linux`
+![Commit activity](https://img.shields.io/github/commit-activity/t/eedeb/FreeClaw)
 
 ---
 
