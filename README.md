@@ -95,7 +95,7 @@ I've been coding since 4th grade. I love building AI assistants, making websites
 | **Portfolio** | [eedeb.dev](https://eedeb.dev) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Feedeb.dev) |
 | **FreeClaw** | [freeclaw.eedeb.dev](https://freeclaw.eedeb.dev) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Ffreeclaw.eedeb.dev) |
 | **Minecraft** | [minecraft.eedeb.dev](https://minecraft.eedeb.dev) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fminecraft.eedeb.dev) |
-| **Clash Royale** | [clashroyale.eedeb.dev](https://minecraft.eedeb.dev) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fclashroyale.eedeb.dev) |
+| **Clash Royale** | [clashroyale.eedeb.dev](https://clashroyale.eedeb.dev) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fclashroyale.eedeb.dev) |
 | **Unblocked Retrobowl** | [powerschool.chat314.com](https://powerschool.chat314.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fpowerschool.chat314.com) |
 | **Assistant Homepage** | [chat314.com](https://chat314.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fchat314.com) |
 | **App Interface** | [app.chat314.com](https://app.chat314.com) | ![Website](https://img.shields.io/website?url=https%3A%2F%2Fapp.chat314.com) |
